@@ -215,9 +215,9 @@ nav input[type="checkbox"] {
 
 @media (max-width: 425px) {
     #Kopf h1 {
-        text-align: left;
-        padding-left: 8px;
-        width: 20%;
+        text-align: left; /*Text linksbündig ausrichten*/
+        padding-left: 8px; /*Innenabstand links*/
+        width: 20%; /*Breite*/
     }
 }
 
