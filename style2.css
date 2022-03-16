@@ -213,13 +213,6 @@ nav input[type="checkbox"] {
     }
 }
 
-@media(max-width: 468px) {
-    #Kopf {
-        text-align: left; /*Textausrichtung: links*/
-        padding-left: 8px; /*Innenabstand links*/
-    }
-}
-
 /*Fusszeile*/
     #Fusszeile {
         height: 30px; /*Höhe*/
